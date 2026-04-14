@@ -1,0 +1,2 @@
+# Smart-Vision-System-using-ESP32-CAM-and-YOLOv8-for-Real-Time-Detection
+This project presents a real-time object detection system integrating an ESP32-CAM, acting as a compact, cost-effective wireless camera, with the YOLOv8 deep learning model. The ESP32-CAM streams live video over Wi-Fi, which is then processed on a computer using YOLOv8, enabling high-accuracy, real-time detection of multiple objects. 
