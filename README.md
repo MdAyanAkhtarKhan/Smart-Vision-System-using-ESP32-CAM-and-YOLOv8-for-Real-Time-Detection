@@ -10,13 +10,14 @@ The repository contains:
 
 ## 🖼️ Sample Output
 
-![Detection Output](images/det_8_output.jpg)
+![Detection Output](https://github.com/MdAyanAkhtarKhan/Smart-Vision-System-using-ESP32-CAM-and-YOLOv8-for-Real-Time-Detection/blob/YOLO/det_7.jpg)
 
-## 🔌 ESP32-CAM Circuit Diagram
 
-![ESP32-CAM Fritzing](images/esp32_fritzing.jpg)
+## 🔌 Hardware / PCB
 
- Fritzing diagram showing ESP32-CAM connection with FTDI programmer for uploading code.
+![ESP32 PCB](https://github.com/MdAyanAkhtarKhan/Smart-Vision-System-using-ESP32-CAM-and-YOLOv8-for-Real-Time-Detection/blob/YOLO/esp32_ip_web_cam.jpeg)
+
+Fritzing diagram showing ESP32-CAM connection with FTDI programmer for uploading code.
 
 ## 📌 Features
 
