@@ -10,8 +10,8 @@ print("CUDA available:", torch.cuda.is_available())
 
 # IP Webcam settings
 
-ip = "192.168.0.108"
-port = "8080"
+ip = ""#ip address
+port = ""#port
 
 # Try this FIRST
 url = f"http://{ip}:{port}/video"
